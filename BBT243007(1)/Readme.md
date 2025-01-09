@@ -19,7 +19,7 @@ Enter Value of A2 = 4
 
 Your Product is 12
 
-Test Case 2
+## Test Case 2
 
 **Input:**
 
