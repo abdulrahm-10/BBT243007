@@ -13,14 +13,17 @@ Enter Value of A1 = 3
 
 Enter Value of A2 = 4
 **Output:**
+
 Your Product is 12
 
 Test Case 2
 **Input:**
+
 Enter Value of A1 = 5
 
 Enter Value of A2 = 6
 **Output:**
+
 Your Product is 30
 
 
